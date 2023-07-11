@@ -2,6 +2,8 @@
 
 body {
     background-color: #FFFFFF;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
 }
 
 /* HEADER */
@@ -52,6 +54,8 @@ main p {
 
 .p__section {
     color: #B4AD9E;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
 }
 
 /* FOOTER */
